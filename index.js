@@ -1,3 +1,4 @@
+var sourceURL="https://www.npmjs.com/package/couchbackup";
 var couchbackup = require('couchbackup');
 var opts = {
   "COUCH_URL": "http://127.0.0.1:5984",
