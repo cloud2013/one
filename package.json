@@ -1,0 +1,14 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "couchdb backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "gotest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "couchbackup": "^1.4.0"
+  }
+}
